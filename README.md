@@ -44,9 +44,7 @@ main.cpp    - Game loop and input handling
 ```
 
 ## Demo
-
-https://github.com/cryingbuddha/chessoops/raw/main/demo_video.mp4
-
+https://github.com/user-attachments/assets/2fe4a8c3-0524-4a71-b1da-05bcd8b506b0
 UPPERCASE = White pieces  
 lowercase = black pieces
 
