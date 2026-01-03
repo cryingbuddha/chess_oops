@@ -45,7 +45,7 @@ main.cpp    - Game loop and input handling
 
 ## Demo
 
-https://github.com/cryingbuddha/chessoops/raw/main/OOP%20chess%20game%20project%20idea%20in%20C%2B%2B%20-%20chessoops%20-%20Visual%20Studio%20Code%202026-01-03%2012-15-30.mp4
+https://github.com/cryingbuddha/chessoops/raw/main/demo_video.mp4
 
 UPPERCASE = White pieces  
 lowercase = black pieces
